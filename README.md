@@ -7,4 +7,5 @@
 - 综合项目：学生成绩管理系统（含文件/结构体）
 
 **状态**：暂停更新
+
 所有项目同步上传到https://github.com/wangpeiren2008/C_Code_VS_Code 里面，格式优化为更严谨的代码格式以适配VS code代码编程环境
